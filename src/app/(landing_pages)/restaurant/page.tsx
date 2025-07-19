@@ -649,7 +649,7 @@ export default function RestaurantLanding() {
         
         <p className="text-neutral-300 text-lg leading-relaxed max-w-md">
           Take advantage of exclusive deals and packages designed to elevate your 
-          stay. Whether it's a romantic getaway or family vacation.
+          stay. Whether it&apos;s a romantic getaway or family vacation.
         </p>
         
         <div className="space-y-4">
